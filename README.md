@@ -12,4 +12,4 @@ PPS: Please don't use any frameworks except Bootstrap.
 1. Please explain how did you come up with the solution
 2. Please explain any design decisions made (why you chose the design/framework, etc.)
 3. Please indicate tools that you used.
-4. Please explain on your own words, What are the roles of web developer?
+4. Please explain in your own words, What are the roles of web developer?
